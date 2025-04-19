@@ -6,6 +6,10 @@ Then **Letterpickd** is the solution!
 
 A simple software that takes parameters and returns a random movie from a Letterboxd list.
 
+## Example:
+![Letterpickd_1](https://github.com/user-attachments/assets/e2c8af4d-2322-479a-8988-751b4c8e55f1)
+
+
 ## Current version:
 
 Right now, **it's only possible to get a random movie from any user's watchlist**.
