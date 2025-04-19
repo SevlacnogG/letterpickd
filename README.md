@@ -24,6 +24,8 @@ to the result's textbox;
 
 ## Installation:
 
-1. Clone este repositório em sua máquina local:
+1. Download the .zip or clone the repository, which can be done through:
    ```bash
    git clone https://github.com/seu-usuario/letterpickd.git
+
+2. Remember to install requirements!
