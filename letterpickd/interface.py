@@ -12,7 +12,7 @@ class GUI:
         # WINDOW - size and title:
         self.root = ctk.CTk()
         self.root.geometry("480x480")
-        self.root.title("Letterpickr")
+        self.root.title("Letterpickd")
         self.controller = control()
 
 
